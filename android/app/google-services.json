@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698895486293",
+    "project_id": "sonatshi-shop",
+    "storage_bucket": "sonatshi-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698895486293:android:1cea7276cf4634656573dc",
+        "android_client_info": {
+          "package_name": "com.example.sonatshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698895486293-3fb1qepl4fk39m0g10btsjej3gkbbkkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonatshi",
+            "certificate_hash": "662de4e6bb9531a92dc7257b606c8c19bb6494e8"
+          }
+        },
+        {
+          "client_id": "698895486293-aqpkujfsh715bpcp4msukim0qnq28eca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kGls6xNPO7SHpZVgnyjbRgcGAsDw6vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698895486293-aqpkujfsh715bpcp4msukim0qnq28eca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
