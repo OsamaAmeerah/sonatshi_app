@@ -1,5 +1,6 @@
 import 'package:get/get.dart';
 import 'package:sonatshi/logic/controller/main_screen_controller.dart';
+import 'package:sonatshi/logic/controller/payment_controller.dart';
 import 'package:sonatshi/logic/controller/settings_controller.dart';
 
 class MainBinding extends Bindings{
@@ -8,6 +9,7 @@ class MainBinding extends Bindings{
 
     Get.put(MainScreenController());
     Get.put(SettingsController());
+    Get.put(PaymentController(),permanent: true);
 
   }
 

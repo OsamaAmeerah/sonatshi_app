@@ -35,7 +35,7 @@ class PaymentScreen extends StatelessWidget {
               const Gap(
                 20.0,
               ),
-              DeliveryContainerWidget(),
+              const DeliveryContainerWidget(),
               const Gap(
                 20.0,
               ),
@@ -48,7 +48,7 @@ class PaymentScreen extends StatelessWidget {
               const Gap(
                 20.0,
               ),
-              PaymentMethod(),
+              const PaymentMethod(),
               const Gap(
                 30.0,
               ),
